@@ -1,0 +1,23 @@
+<?php
+$style = [
+	"collapsed"=>"border: 0.5px solid black; border-collapse: collapse;",
+	"b0"=>"border: 0px;",
+	"b1"=>"border: 1px;",
+	"pl8"=>"padding-left: 8px;",
+	"pb4"=>"padding-bottom: 4px;",
+	"btlr"=>"border-left: 1px solid black;border-top: 1px solid black;border-right: 1px solid black;",
+	"bdlr"=>"border-left: 1px solid black;border-bottom: 1px solid black;border-right: 1px solid black;",
+	"bdlr"=>"border-left: 1px solid black;border-bottom: 1px solid black;border-right: 1px solid black;",
+	"bl"=>"border-left: 1px solid black;",
+	"bt"=>"border-top: 1px solid black;",
+	"br"=>"border-right: 1px solid black;",
+	"bb"=>"border-bottom: 1px solid black;",
+	"underline"=>"text-decoration: underline;",
+	"italic"=>"font-style: italic;",
+	"bold"=>"font-weight: bold;",
+	"bolder"=>"font-weight: bolder;",
+	"va_center"=>"vertical-align: center;",
+	"va_middle"=>"vertical-align: middle;",
+	"va_top"=>"vertical-align: top;",
+	"va_bottom"=>"vertical-align: bottom;",
+];
